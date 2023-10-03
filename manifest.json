@@ -3,6 +3,7 @@
   "name": "Yt3x",
   "version": "1.0",
   "description": "Sets video playback speed to 3x on YouTube.",
+  "homepage_url": "https://github.com/thilo-fester/yt3x",
   "icons": {
     "48": "icon.png"
   },
